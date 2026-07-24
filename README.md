@@ -1,3 +1,4 @@
+```
 admission-eligibility-predictor/
 ├── data/
 ├── model/
@@ -7,3 +8,5 @@ admission-eligibility-predictor/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
+```
